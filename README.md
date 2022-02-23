@@ -1,4 +1,4 @@
-# Yosh-  # {Application Name}
+# Yosh-  # {b3nzuk3}
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
