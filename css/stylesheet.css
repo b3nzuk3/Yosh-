@@ -1,3 +1,50 @@
-h1{
-  color: blue;
+body {
+  background-color: #D3ECA7;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Shizuru', cursive;
+  font-size: 5rem;
+  letter-spacing: 1px;
+  color: #141E61;
+}
+
+h3 {
+  text-align: center;
+  color: #19282F;
+  font-size: 2rem;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+p {
+
+  text-align: center;
+  width: 600px;
+  margin: 0 auto;
+  font-family: 'Shizuru', cursive;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  padding-bottom: 30px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+.container {
+  position: relative;
+  padding-bottom: 40px;
 }
